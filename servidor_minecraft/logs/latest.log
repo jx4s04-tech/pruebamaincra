@@ -1,0 +1,353 @@
+[00:57:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:57:10] [ServerMain/INFO]: Loaded 7 recipes
+[00:57:10] [ServerMain/INFO]: Loaded 1271 advancements
+[00:57:11] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:57:11] [Server thread/INFO]: Loading properties
+[00:57:11] [Server thread/INFO]: Default game type: SURVIVAL
+[00:57:11] [Server thread/INFO]: Generating keypair
+[00:57:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:57:11] [Server thread/INFO]: Using epoll channel type
+[00:57:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:57:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:57:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:57:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:57:11] [Server thread/INFO]: Preparing level "world"
+[00:57:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:57:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:57:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:57:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:57:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:57:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:57:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:57:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:57:17] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[00:57:17] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[00:57:18] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[00:57:18] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[00:57:19] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[00:57:19] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[00:57:20] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[00:57:20] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[00:57:21] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[00:57:21] [Worker-Main-2/INFO]: Preparing spawn area: 27%
+[00:57:22] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[00:57:23] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[00:57:23] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[00:57:23] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[00:57:24] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[00:57:24] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[00:57:25] [Worker-Main-3/INFO]: Preparing spawn area: 39%
+[00:57:25] [Worker-Main-3/INFO]: Preparing spawn area: 41%
+[00:57:26] [Worker-Main-1/INFO]: Preparing spawn area: 43%
+[00:57:26] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[00:57:27] [Worker-Main-1/INFO]: Preparing spawn area: 47%
+[00:57:27] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[00:57:28] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[00:57:28] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[00:57:29] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[00:57:29] [Worker-Main-1/INFO]: Preparing spawn area: 58%
+[00:57:30] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[00:57:30] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[00:57:31] [Worker-Main-1/INFO]: Preparing spawn area: 66%
+[00:57:31] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[00:57:32] [Worker-Main-1/INFO]: Preparing spawn area: 70%
+[00:57:32] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[00:57:33] [Worker-Main-3/INFO]: Preparing spawn area: 74%
+[00:57:33] [Worker-Main-1/INFO]: Preparing spawn area: 76%
+[00:57:34] [Worker-Main-3/INFO]: Preparing spawn area: 79%
+[00:57:34] [Worker-Main-2/INFO]: Preparing spawn area: 81%
+[00:57:35] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[00:57:35] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[00:57:36] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[00:57:36] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[00:57:37] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[00:57:37] [Worker-Main-1/INFO]: Preparing spawn area: 97%
+[00:57:38] [Server thread/INFO]: Time elapsed: 24423 ms
+[00:57:38] [Server thread/INFO]: Done (26.962s)! For help, type "help"
+[00:57:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@30ada4f8[id=<null>,name=lexus23,properties={},legacy=false] (/100.85.193.126:55767) lost connection: Disconnected
+[00:57:38] [Server thread/INFO]: lexus23[/100.85.193.126:62322] logged in with entity id 406 at (-1.4159028726750398, 79.0, 12.00593690838979)
+[00:57:38] [Server thread/INFO]: lexus23 joined the game
+[00:57:41] [Server thread/INFO]: lexus23 was slain by Zombie
+[00:57:42] [Server thread/INFO]: T3seo[/100.126.96.81:57062] logged in with entity id 473 at (-16.929981102714024, 90.86356349059186, -34.814698698799376)
+[00:57:42] [Server thread/INFO]: T3seo joined the game
+[00:57:56] [Server thread/INFO]: [T3seo: Set own game mode to Survival Mode]
+[00:58:06] [Server thread/INFO]: T3seo has made the advancement [Stone Age]
+[00:58:07] [Server thread/INFO]: [T3seo: Set own game mode to Creative Mode]
+[00:58:09] [Server thread/INFO]: lexus23 has made the advancement [Stone Age]
+[00:58:50] [Server thread/INFO]: [T3seo: Successfully filled 1321 block(s)]
+[00:58:56] [Server thread/INFO]: lexus23 was blown up by Creeper
+[00:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[00:59:08] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[00:59:09] [Server thread/INFO]: lexus23 fell from a high place
+[00:59:10] [Server thread/INFO]: [T3seo: Successfully filled 242 block(s)]
+[00:59:13] [Server thread/INFO]: [T3seo: Successfully filled 1016 block(s)]
+[00:59:16] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[00:59:20] [Server thread/INFO]: [T3seo: Successfully filled 841 block(s)]
+[00:59:22] [Server thread/INFO]: [T3seo: Successfully filled 667 block(s)]
+[00:59:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-11, y=72, z=12}
+[00:59:28] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[00:59:30] [Server thread/INFO]: [T3seo: Successfully filled 1001 block(s)]
+[01:00:00] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:00:12] [Server thread/INFO]: [T3seo: Set own game mode to Survival Mode]
+[01:00:23] [Server thread/INFO]: T3seo was blown up by T3seo
+[01:00:24] [Server thread/WARN]: T3seo moved too quickly! -0.4475505761493075,10.126211492690473,-4.21136618460262
+[01:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[01:00:28] [Server thread/INFO]: lexus23 was blown up by T3seo
+[01:00:29] [Server thread/WARN]: lexus23 moved too quickly! 1.1924178096387708,-10.48759474665028,-0.27694962705516346
+[01:00:43] [Server thread/WARN]: T3seo moved too quickly! 0.8787229304479389,-10.0,-0.44860564252558177
+[01:00:58] [Server thread/WARN]: T3seo moved too quickly! -5.403921794559761,3.9651911232607873,-7.991540559238328
+[01:01:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30725ms or 614 ticks behind
+[01:01:28] [Server thread/INFO]: [Not Secure] <T3seo> tolin?
+[01:01:29] [Server thread/INFO]: [Not Secure] <T3seo> XD
+[01:03:57] [Server thread/INFO]: T3seo fell from a high place
+[01:04:10] [Server thread/INFO]: [T3seo: Set own game mode to Creative Mode]
+[01:04:12] [Server thread/INFO]: [Not Secure] <T3seo> XD
+[01:04:15] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:04:16] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:17] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:18] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:19] [Server thread/INFO]: [T3seo: Successfully filled 341 block(s)]
+[01:04:20] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:21] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:22] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:24] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:04:49] [Server thread/INFO]: [T3seo: Teleported T3seo to lexus23]
+[01:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[01:06:05] [Server thread/INFO]: [T3seo: Set own game mode to Survival Mode]
+[01:06:06] [Server thread/INFO]: [T3seo: Set own game mode to Creative Mode]
+[01:06:10] [Server thread/INFO]: [T3seo: Teleported T3seo to lexus23]
+[01:11:25] [Server thread/INFO]: [Not Secure] <lexus23> ola
+[01:11:34] [Server thread/INFO]: [Not Secure] <T3seo> oe
+[01:11:37] [Server thread/INFO]: [Not Secure] <lexus23> q
+[01:11:39] [Server thread/INFO]: [Not Secure] <T3seo> estas vivo
+[01:11:44] [Server thread/INFO]: [Not Secure] <lexus23> wstoy vivo
+[01:11:47] [Server thread/INFO]: [T3seo: Teleported T3seo to lexus23]
+[01:11:49] [Server thread/INFO]: [Not Secure] <lexus23> sobrevivi a la bomba nuclear
+[01:12:07] [Server thread/INFO]: [T3seo: Teleported T3seo to lexus23]
+[01:12:13] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:12:16] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:12:19] [Server thread/INFO]: [T3seo: Successfully filled 1139 block(s)]
+[01:12:21] [Server thread/INFO]: [T3seo: Successfully filled 641 block(s)]
+[01:12:24] [Server thread/INFO]: [T3seo: Successfully filled 618 block(s)]
+[01:12:27] [Server thread/INFO]: [T3seo: Successfully filled 695 block(s)]
+[01:12:30] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:12:34] [Server thread/INFO]: [Not Secure] <lexus23> si
+[01:12:57] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:13:06] [Server thread/WARN]: lexus23 moved too quickly! 0.5825756234290466,-11.011337373112067,2.1258609275719755
+[01:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[01:13:10] [Server thread/INFO]: lexus23 was doomed to fall by T3seo
+[01:13:21] [Server thread/WARN]: T3seo moved too quickly! 7.203661122615815,7.082389716290287,1.2644979863888341
+[01:13:25] [Server thread/WARN]: T3seo moved too quickly! -9.34002034318571,0.6046677499445821,-4.7050958134760315
+[01:13:27] [Server thread/WARN]: lexus23 moved too quickly! -0.6461940832480231,-10.462643127179387,-0.5799912481335112
+[01:13:32] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:13:34] [Server thread/WARN]: lexus23 moved too quickly! -0.1656288945805109,-10.188594643186818,-0.21369934479751684
+[01:13:35] [Server thread/WARN]: lexus23 moved too quickly! -0.26631087450578894,-10.969869927920861,1.8744371534585023
+[01:13:37] [Server thread/WARN]: lexus23 moved too quickly! 0.7926299293595118,-10.297709169240214,-0.4067824342488062
+[01:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20736ms or 414 ticks behind
+[01:14:00] [Server thread/INFO]: lexus23 has completed the challenge [Cover Me in Debris]
+[01:14:43] [Server thread/INFO]: T3seo has made the advancement [Spooky Scary Skeleton]
+[01:15:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-4, y=11, z=-7}
+[01:15:06] [Server thread/INFO]: [Not Secure] <lexus23> XD
+[01:15:08] [Server thread/INFO]: lexus23 has made the advancement [Sneak 100]
+[01:15:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-9, y=10, z=-8}
+[01:15:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-10, y=12, z=-9}
+[01:15:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-10, y=11, z=-9}
+[01:15:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-10, y=12, z=-9}
+[01:15:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-10, y=12, z=-9}
+[01:15:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-10, y=12, z=-9}
+[01:15:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-9, y=12, z=-9}
+[01:15:28] [Server thread/INFO]: lexus23 has made the advancement [Withering Heights]
+[01:15:28] [Server thread/INFO]: T3seo has made the advancement [Withering Heights]
+[01:15:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=3, y=10, z=-26} gu{x=-14, y=9, z=-10}
+[01:15:41] [Server thread/INFO]: T3seo has made the advancement [Sneak 100]
+[01:15:56] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:15:57] [Server thread/INFO]: [T3seo: Successfully filled 267 block(s)]
+[01:15:58] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:15:58] [Server thread/INFO]: [T3seo: Successfully filled 157 block(s)]
+[01:15:59] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:16:00] [Server thread/INFO]: [T3seo: Successfully filled 267 block(s)]
+[01:16:00] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:16:01] [Server thread/INFO]: [T3seo: Successfully filled 255 block(s)]
+[01:16:03] [Server thread/INFO]: [T3seo: Successfully filled 495 block(s)]
+[01:16:04] [Server thread/INFO]: [T3seo: Successfully filled 46 block(s)]
+[01:16:05] [Server thread/INFO]: [T3seo: Successfully filled 341 block(s)]
+[01:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[01:17:15] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:18:04] [Server thread/INFO]: lexus23 has made the advancement [Spooky Scary Skeleton]
+[01:18:51] [Server thread/INFO]: [Not Secure] <lexus23> dame arco p
+[01:19:13] [Server thread/INFO]: lexus23 has made the advancement [Take Aim]
+[01:22:37] [Server thread/INFO]: T3seo has made the advancement [Ice Bucket Challenge]
+[01:22:59] [Server thread/INFO]: T3seo has made the advancement [We Need to Go Deeper]
+[01:23:05] [Server thread/INFO]: lexus23 has made the advancement [We Need to Go Deeper]
+[01:23:05] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:23:14] [Server thread/INFO]: [Not Secure] * lexus23 murio por unsa sobredosis de semen
+[01:23:59] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[01:24:02] [Server thread/INFO]: [T3seo: Teleported T3seo to 272.500000, 50.027548, 208.500000]
+[01:24:02] [Server thread/INFO]: T3seo has made the advancement [Those Were the Days]
+[01:24:14] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:24:14] [Server thread/INFO]: lexus23 has made the advancement [Those Were the Days]
+[01:24:23] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:24:24] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:25] [Server thread/INFO]: [T3seo: Successfully filled 484 block(s)]
+[01:24:27] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:24:28] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:24:28] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:24:29] [Server thread/INFO]: [T3seo: Successfully filled 242 block(s)]
+[01:24:30] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:31] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:32] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:32] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:33] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:34] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:35] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:24:36] [Server thread/INFO]: [T3seo: Successfully filled 341 block(s)]
+[01:24:46] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:24:46] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:24:47] [Server thread/INFO]: [T3seo: Successfully filled 124 block(s)]
+[01:24:49] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[01:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19120ms or 382 ticks behind
+[01:25:41] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:25:52] [Server thread/INFO]: lexus23 lost connection: Disconnected
+[01:25:52] [Server thread/INFO]: lexus23 left the game
+[01:25:56] [Server thread/INFO]: lexus23[/100.85.193.126:61816] logged in with entity id 98247 at (276.30000001192093, 30.66154409629685, 185.0115530854443)
+[01:25:56] [Server thread/INFO]: lexus23 joined the game
+[01:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[01:26:16] [Server thread/INFO]: Locating element minecraft:stronghold took 334 ms
+[01:26:18] [Server thread/INFO]: [T3seo: Teleported T3seo to 1280.500000, -30.842598, 1568.500000]
+[01:26:27] [Server thread/INFO]: [T3seo: Set own game mode to Spectator Mode]
+[01:26:46] [Server thread/INFO]: T3seo has made the advancement [Eye Spy]
+[01:27:05] [Server thread/INFO]: [T3seo: Set own game mode to Creative Mode]
+[01:27:07] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:27:08] [Server thread/INFO]: lexus23 has made the advancement [Eye Spy]
+[01:30:29] [Server thread/INFO]: T3seo has made the advancement [The End?]
+[01:30:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:30:31] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[01:30:31] [Server thread/INFO]: lexus23 has made the advancement [The End?]
+[01:30:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[01:30:32] [Server thread/WARN]: lexus23 moved too quickly! -1231.0719852097757,25.26590000152588,-1545.391012894338
+[01:31:47] [Server thread/INFO]: [T3seo: Successfully filled 1331 block(s)]
+[01:31:48] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:31:49] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:31:49] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:31:50] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:31:51] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:31:51] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:31:58] [Server thread/INFO]: [T3seo: Successfully filled 242 block(s)]
+[01:31:59] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:31:59] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:00] [Server thread/INFO]: [T3seo: Successfully filled 121 block(s)]
+[01:32:01] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:01] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:02] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:03] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:03] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:04] [Server thread/INFO]: [T3seo: Successfully filled 231 block(s)]
+[01:32:39] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:32:44] [Server thread/INFO]: lexus23 was slain by Vindicator
+[01:32:46] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:32:50] [Server thread/INFO]: lexus23 was slain by Vindicator
+[01:32:52] [Server thread/INFO]: [T3seo: Teleported lexus23 to T3seo]
+[01:32:52] [Server thread/INFO]: T3seo has made the advancement [Voluntary Exile]
+[01:32:53] [Server thread/WARN]: lexus23 moved too quickly! -0.021710435739445977,10.684256653088994,-2.054183673350713
+[01:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[01:32:56] [Server thread/INFO]: lexus23 fell from a high place
+[01:33:01] [Server thread/WARN]: T3seo moved too quickly! 7.876703809640046,5.878534510077344,1.9154368463432538
+[01:33:04] [Server thread/INFO]: lexus23 lost connection: Disconnected
+[01:33:04] [Server thread/INFO]: lexus23 left the game
+[01:33:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:33:21] [Server thread/INFO]: gggggggggggggggggggggggggggggggggggggggggggggggg/save<--[HERE]
+[01:33:25] [Server thread/INFO]: /advancement (grant|revoke)
+[01:33:25] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[01:33:25] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[01:33:25] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[01:33:25] [Server thread/INFO]: /clear [<targets>]
+[01:33:25] [Server thread/INFO]: /clone (<begin>|from)
+[01:33:25] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[01:33:25] [Server thread/INFO]: /data (merge|get|remove|modify)
+[01:33:25] [Server thread/INFO]: /datapack (enable|disable|list)
+[01:33:25] [Server thread/INFO]: /debug (start|stop|function)
+[01:33:25] [Server thread/INFO]: /defaultgamemode <gamemode>
+[01:33:25] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[01:33:25] [Server thread/INFO]: /effect (clear|give)
+[01:33:25] [Server thread/INFO]: /me <action>
+[01:33:25] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[01:33:25] [Server thread/INFO]: /experience (add|set|query)
+[01:33:25] [Server thread/INFO]: /xp -> experience
+[01:33:25] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[01:33:25] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[01:33:25] [Server thread/INFO]: /forceload (add|remove|query)
+[01:33:25] [Server thread/INFO]: /function <name>
+[01:33:25] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[01:33:25] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[01:33:25] [Server thread/INFO]: /give <targets> <item> [<count>]
+[01:33:25] [Server thread/INFO]: /help [<command>]
+[01:33:25] [Server thread/INFO]: /item (replace|modify)
+[01:33:25] [Server thread/INFO]: /kick <targets> [<reason>]
+[01:33:25] [Server thread/INFO]: /kill [<targets>]
+[01:33:25] [Server thread/INFO]: /list [uuids]
+[01:33:25] [Server thread/INFO]: /locate (structure|biome|poi)
+[01:33:25] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[01:33:25] [Server thread/INFO]: /msg <targets> <message>
+[01:33:25] [Server thread/INFO]: /tell -> msg
+[01:33:25] [Server thread/INFO]: /w -> msg
+[01:33:25] [Server thread/INFO]: /particle <name> [<pos>]
+[01:33:25] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[01:33:25] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[01:33:25] [Server thread/INFO]: /reload
+[01:33:25] [Server thread/INFO]: /recipe (give|take)
+[01:33:25] [Server thread/INFO]: /return <value>
+[01:33:25] [Server thread/INFO]: /ride <target> (mount|dismount)
+[01:33:25] [Server thread/INFO]: /say <message>
+[01:33:25] [Server thread/INFO]: /schedule (function|clear)
+[01:33:25] [Server thread/INFO]: /scoreboard (objectives|players)
+[01:33:25] [Server thread/INFO]: /seed
+[01:33:25] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[01:33:25] [Server thread/INFO]: /spawnpoint [<targets>]
+[01:33:25] [Server thread/INFO]: /setworldspawn [<pos>]
+[01:33:25] [Server thread/INFO]: /spectate [<target>]
+[01:33:25] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[01:33:25] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[01:33:25] [Server thread/INFO]: /summon <entity> [<pos>]
+[01:33:25] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[01:33:25] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[01:33:25] [Server thread/INFO]: /teammsg <message>
+[01:33:25] [Server thread/INFO]: /tm -> teammsg
+[01:33:25] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[01:33:25] [Server thread/INFO]: /tp -> teleport
+[01:33:25] [Server thread/INFO]: /tellraw <targets> <message>
+[01:33:25] [Server thread/INFO]: /time (set|add|query)
+[01:33:25] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[01:33:25] [Server thread/INFO]: /trigger <objective> [add|set]
+[01:33:25] [Server thread/INFO]: /weather (clear|rain|thunder)
+[01:33:25] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[01:33:25] [Server thread/INFO]: /jfr (start|stop)
+[01:33:25] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[01:33:25] [Server thread/INFO]: /banlist [ips|players]
+[01:33:25] [Server thread/INFO]: /ban <targets> [<reason>]
+[01:33:25] [Server thread/INFO]: /deop <targets>
+[01:33:25] [Server thread/INFO]: /op <targets>
+[01:33:25] [Server thread/INFO]: /pardon <targets>
+[01:33:25] [Server thread/INFO]: /pardon-ip <target>
+[01:33:25] [Server thread/INFO]: /perf (start|stop)
+[01:33:25] [Server thread/INFO]: /save-all [flush]
+[01:33:25] [Server thread/INFO]: /save-off
+[01:33:25] [Server thread/INFO]: /save-on
+[01:33:25] [Server thread/INFO]: /setidletimeout <minutes>
+[01:33:25] [Server thread/INFO]: /stop
+[01:33:25] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[01:33:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:33:32] [Server thread/INFO]: save all<--[HERE]
+[01:33:35] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:33:35] [Server thread/INFO]: Saved the game
+[01:33:39] [Server thread/INFO]: Stopping the server
+[01:33:39] [Server thread/INFO]: Stopping server
+[01:33:39] [Server thread/INFO]: Saving players
+[01:33:39] [Server thread/INFO]: Saving worlds
+[01:33:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:33:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:33:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:33:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
